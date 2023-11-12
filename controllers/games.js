@@ -55,7 +55,7 @@ async function updateGame(req, res) {
       if (err?.code) {
         res.status(err.code).json({ msg: err.msg });
       } else {
-        res.status(500).json({ msg: "No se pudo actualizar el juego" });
+        res.status(500).json({ msg: "No se pudo actualizar el juego." });
       }
     });
 }

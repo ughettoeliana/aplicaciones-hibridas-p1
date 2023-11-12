@@ -1,0 +1,8 @@
+Nombre: Eliana Ughetto
+Repositorio en github: https://github.com/ughettoeliana/aplicaciones-hibridas-p1.git
+Año: 2023
+Materia: Aplicaciones Hibridas
+Profesor: Brian Lara
+Turno: Noche
+Comision: B
+Carrera: Diseño y Programacion Web

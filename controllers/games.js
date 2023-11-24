@@ -23,7 +23,8 @@ function getGameById(req, res) {
 }
 
 
-async function getGamesByEdition(req, res) {
+async function 
+getGamesByEdition(req, res) {
   const edition = parseInt(req.params.edition);
   const query = req.query
   gamesService.getGamesByEdition(edition, query).then(function (games) {
